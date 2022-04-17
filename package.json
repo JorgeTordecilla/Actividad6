@@ -2,7 +2,7 @@
   "name": "imc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jorgetordecilla.github.io/Actividad3Cliente/",
+  "homepage": "https://jorgetordecilla.github.io/Actividad6/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.0.1",
